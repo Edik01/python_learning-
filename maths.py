@@ -1,5 +1,5 @@
-num1 = int(input("5"))
-num2 = int(("7"))
+num1 = float(input("Enter the first number"))
+num2 = float(input("Enter the second number"))
 
 print("Addition:", num1+num2)
 print("Subtraction:", num1 - num2)
